@@ -11,7 +11,8 @@
             "selectedChoices": {}
         },
         "age": 59,
-        "niss": "83101420722"
+        "niss": "83101420722",
+        "identification_de_collecte": 1
     },
     "donnŽes_mŽdicales": {
         "diagnostic": {
@@ -33,7 +34,8 @@
             "convention": {
                 "selectedChoices": {}
             },
-            "age_premiers_symptomes": 50
+            "age_premiers_symptomes": 50,
+            "age_du_diagnostic": 59
         },
         "activlim": {
             "lordre_du_questionnaire": {},
