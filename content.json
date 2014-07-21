@@ -12,7 +12,8 @@
         },
         "age": 59,
         "niss": "83101420722",
-        "identification_de_collecte": 1
+        "identification_de_collecte": 1,
+        "date_de_naissance": "Fri Sep 17 1954 00:00:00 GMT+0200 (CEST)"
     },
     "donnŽes_mŽdicales": {
         "diagnostic": {
@@ -63,6 +64,84 @@
                 "sauter_ˆ_cloche_pied": {},
                 "mettre_un_sac_ˆ_dos_": {},
                 "courir_": {}
+            }
+        },
+        "treatnmd": {
+            "select_dmd_or_sma": {},
+            "dmd": {
+                "mutation_has_been_validated_by": {},
+                "clinical_data_has_been_validated_by": {},
+                "molecular_data": {
+                    "deletion_all_exons_tested": {},
+                    "duplication_all_exons_tested": {},
+                    "deletionduplication_boundaries_known": {},
+                    "point_mutation_all_exons_sequenced": {},
+                    "targeted_mutation_testing_in_this_patient_but_testing_of_all_exons_in_an_affected_male_relative_index_patient": {}
+                },
+                "diagnosis": {
+                    "diagnosis_dmd": {}
+                },
+                "motor_function": {
+                    "currently_able_to_walk": {},
+                    "wheelchair_use_answer_if_over_3_years_of_age": {},
+                    "currently_able_to_sit_without_support": {}
+                },
+                "steroids": {
+                    "current_steroid_therapy": {}
+                },
+                "scoliosis_surgery": {
+                    "scoliosis_surgery": {}
+                },
+                "heart": {
+                    "current_cardiac_medication": {},
+                    "heart_failurecardiomyopathy": {}
+                },
+                "clinical_trials": {
+                    "currently_included_in_a_clinical_trial": {}
+                },
+                "respiratory_function": {
+                    "noninvasive_ventilation": {},
+                    "invasive_ventilation": {}
+                },
+                "muscle_biopsy": {
+                    "previous_muscle_biopsy": {}
+                },
+                "other_registries": {
+                    "signed_up_for_other_registries": {}
+                },
+                "family_history": {}
+            },
+            "sma": {
+                "mutation_has_been_validated_by": {},
+                "clinical_data_has_been_validated_by": {},
+                "molecular_data": {},
+                "diagnosis": {
+                    "diagnosis_sma": {},
+                    "sma_classificationŽ‘": {}
+                },
+                "motor_function": {
+                    "currently_able_to_walk": {},
+                    "currently_able_to_sit_without_support": {},
+                    "best_motor_function_achieved": {},
+                    "wheelchair_use_answer_if_over_3_years_of_age": {}
+                },
+                "scoliosis_surgery": {
+                    "scoliosis_surgery": {}
+                },
+                "feeding": {
+                    "gastricnasal_tube": {}
+                },
+                "clinical_trials": {
+                    "currently_included_in_a_clinical_trial": {}
+                },
+                "respiratory_function": {
+                    "noninvasive_ventilation": {},
+                    "invasive_ventilation": {}
+                },
+                "other_registries": {
+                    "signed_up_for_other_registries": {}
+                },
+                "family_history": {}
             }
         }
     }
