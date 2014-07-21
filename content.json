@@ -1,1 +1,67 @@
-{}
+{
+    "donnŽes_didentification": {
+        "identification_du_centre": {
+            "selectedChoice": "U.Z. BRUSSEL - CAMPUS JETTE"
+        },
+        "sexe": {
+            "selectedChoice": "Man"
+        },
+        "province": {},
+        "dŽcs": {
+            "selectedChoices": {}
+        },
+        "age": 59,
+        "niss": "83101420722"
+    },
+    "donnŽes_mŽdicales": {
+        "diagnostic": {
+            "classification_inami": {},
+            "classification_bnmdr": {
+                "diagnostic_cramp_diagnostic_1": {},
+                "diagnostic_cramp_diagnostic_2": {},
+                "diagnostic_cramp_diagnostic_3": {},
+                "diagnostic_cramp_diagnostic_4": {},
+                "diagnostic_cramp_diagnostic_5": {},
+                "diagnostic_cramp_diagnostic_6": {},
+                "diagnostic_cramp_diagnostic_7": {},
+                "diagnostic_cramp_diagnostic_8": {}
+            },
+            "stade_de_maladie": {},
+            "diagnostic_dŽfinitive": {
+                "selectedChoices": {}
+            },
+            "convention": {
+                "selectedChoices": {}
+            },
+            "age_premiers_symptomes": 50
+        },
+        "activlim": {
+            "lordre_du_questionnaire": {},
+            "langue": {},
+            "quelle_est_la_difficultŽ_des_activitŽs_suivantes": {
+                "mettre_un_t_shirt": {},
+                "se_laver_le_haut_du_corps_": {},
+                "habiller_le_bas_du_corps": {},
+                "prendre_une_douche": {},
+                "sasseoir_sur_les_toilettes": {},
+                "prendre_un_bain": {},
+                "descendre_les_escaliers": {},
+                "sortir_de_la_baignoire": {},
+                "ouvrir_une_porte": {},
+                "marcher_ˆ_lextŽrieur_sur_sol_plat": {},
+                "se_laver_la_figure": {},
+                "pendre_une_veste_ˆ_un_porte_manteau": {},
+                "sessuyer_le_haut_du_corps": {},
+                "monter_les_escaliers": {},
+                "porter_une_charge_lourde": {},
+                "rentrer_dans_une_voiture": {},
+                "rester_debout_longtemps__10_min": {},
+                "marcher_plus_dun_km": {},
+                "fermer_une_porte": {},
+                "sauter_ˆ_cloche_pied": {},
+                "mettre_un_sac_ˆ_dos_": {},
+                "courir_": {}
+            }
+        }
+    }
+}
